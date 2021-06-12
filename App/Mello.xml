@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <themes>
-<data xmls="https://github.com/khater-app/Mello/tree/main/App/xml/" walls="https://github.com/khater-app/Mello/tree/main/App/walls" scs="https://github.com/khater-app/Mello/tree/main/App/screens/"/>
+<data xmls="https://github.com/khater-app/Mello/blob/e972cb392306dd20840e7ef0cc01f385a33bc2f9/App/xml/" walls="https://github.com/khater-app/Mello/blob/e972cb392306dd20840e7ef0cc01f385a33bc2f9/App/walls" scs="https://github.com/khater-app/Mello/blob/e972cb392306dd20840e7ef0cc01f385a33bc2f9/App/screens/"/>
 
 <theme>
 <title>mello</title>

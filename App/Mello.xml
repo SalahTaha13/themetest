@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <themes>
-<data xmls="https://yothemes.yousefalbasha.com/xml/" walls="https://github.com/khater-app/Mello/tree/main/App/walls" scs="https://yothemes.yousefalbasha.com/screens/"/>
+<data xmls="https://github.com/khater-app/Mello/tree/main/App/xml/" walls="https://github.com/khater-app/Mello/tree/main/App/walls" scs="https://github.com/khater-app/Mello/tree/main/App/screens/"/>
 
 <theme>
-<title>OneUI_Dark</title>
-<date>24/08/2020</date>
+<title>mello</title>
+<date>12/06/2021</date>
 </theme>

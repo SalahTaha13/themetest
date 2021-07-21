@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="ModDarkConPickColor_Gactive" value="false" />
+    <int name="ModDarkConPickColor" value="-5297879" />
+    <int name="iconBlue" value="-5297879" />
+    <boolean name="my_name" value="false" />
+    <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
+    <boolean name="collapsing_text_Gactive" value="false" />
+    <int name="HomeBarText" value="-5297879" />
+    <boolean name="Conv_call_btn" value="false" />
+    <boolean name="iconBlue_Gactive" value="false" />
+    <boolean name="Hide_div" value="false" />
+    <int name="ModChatColor" value="-5297879" />
+    <boolean name="yo_hideinfo" value="false" />
+    <boolean name="PicProf" value="false" />
+    <boolean name="log_show_name_check" value="true" />
+    <boolean name="HomeBarText_Gactive" value="false" />
+    <boolean name="home_imgBK" value="true" />
+    <int name="collapsing_text" value="-5297879" />
+    <int name="square_photo_ratio_picker" value="100" />
+    <boolean name="ModChatColor_Gactive" value="false" />
+    <boolean name="showback" value="true" />
+    <boolean name="ModConPickColor_Gactive" value="false" />
+    <string name="HomeEntry">yousef</string>
+    <int name="ModConPickColor" value="-5297879" />
+    <int name="ModDarkConPickColorNav" value="-5297879" />
+    <boolean name="AttBt" value="false" />
+    <int name="main_text" value="17" />
+    <int name="ModConColor" value="-5297879" />
+    <boolean name="ModConColor_Gactive" value="false" />
+    <int name="text_size_pick" value="16" />
+</map>
